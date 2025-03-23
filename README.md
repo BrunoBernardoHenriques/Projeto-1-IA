@@ -12,4 +12,4 @@ Passo a Passo
 6 - Para executar o programa, digite py chatbot.py em um terminal aberto na raiz do projeto
 
 Vídeo demonstrativo:
-
+https://www.youtube.com/watch?v=zKWZg2fmS2A
